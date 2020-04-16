@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/Users/Miko³aj/Documents/NetBeansProjects/Tetris/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Users/Miko³aj/Documents/NetBeansProjects/Tetris/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Tetris 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Users/Miko³aj/Documents/NetBeansProjects/Tetris/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Tetris 1.0 API'
